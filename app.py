@@ -166,7 +166,7 @@ st.markdown("""
 <div class="hero">
     <div class="hero-title">💰 Personal Finance & Investment Intelligence system</div>
     <div class="hero-subtitle">
-        Analyze your financial situation, track savings andget intelligent investment recommendations..
+        Analyze your financial situation, track savings and get intelligent investment recommendations..
     </div>
 </div>
 """, unsafe_allow_html=True)
